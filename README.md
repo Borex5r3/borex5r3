@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dbaich Abdellah</h1>
 <img align="right" alt="Banner" width="1000" src="https://share.creavite.co/Z1Z7BMIsfGuEJJ0X.gif">
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate software engineer from Morocco</h3>
 
 ---
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently a student at [1337 Coding School](https://um6p.ma/en/ecole-1337#)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Python - Automation - Visualization**
 
 - 📫 How to reach me **abdlahdbich@gmail.com**
 
